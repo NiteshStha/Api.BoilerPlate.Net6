@@ -1,6 +1,6 @@
+using Api.BoilerPlate.Net6.Authorization;
 using Api.BoilerPlate.Net6.Extensions;
 using Api.BoilerPlate.Net6.Helpers;
-using Ems.Api.Authorization;
 
 var builder = WebApplication.CreateBuilder(args);
 

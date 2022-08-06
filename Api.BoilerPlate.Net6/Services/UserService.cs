@@ -1,7 +1,7 @@
-﻿using Api.BoilerPlate.Net6.Helpers;
+﻿using Api.BoilerPlate.Net6.Authorization;
+using Api.BoilerPlate.Net6.Helpers;
 using Api.BoilerPlate.Net6.Models.Users;
 using Contract;
-using Ems.Api.Authorization;
 using Entities.Models;
 using Microsoft.Extensions.Options;
 using Utility;

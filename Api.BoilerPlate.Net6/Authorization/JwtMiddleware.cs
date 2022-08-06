@@ -2,7 +2,7 @@
 using Api.BoilerPlate.Net6.Services;
 using Microsoft.Extensions.Options;
 
-namespace Ems.Api.Authorization
+namespace Api.BoilerPlate.Net6.Authorization
 {
     public class JwtMiddleware
     {

@@ -4,7 +4,7 @@ using Api.BoilerPlate.Net6.Services;
 using Entities.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Ems.Api.Controllers
+namespace Api.BoilerPlate.Net6.Controllers
 {
     [Authorize]
     [Route("api/[controller]")]

@@ -6,7 +6,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace Ems.Api.Authorization
+namespace Api.BoilerPlate.Net6.Authorization
 {
     public interface IJwtUtils
     {
